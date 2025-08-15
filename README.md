@@ -29,3 +29,4 @@ golang-101/
 * [github.com/go-kit/kit](https://github.com/go-kit/kit)
 * [prometheus.io/docs/guides/go-application/](https://prometheus.io/docs/guides/go-application/)
 * [pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format](https://pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format)
+* [github.com/gocolly/colly](https://github.com/gocolly/colly)
