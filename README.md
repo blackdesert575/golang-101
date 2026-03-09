@@ -30,3 +30,9 @@ golang-101/
 * [prometheus.io/docs/guides/go-application/](https://prometheus.io/docs/guides/go-application/)
 * [pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format](https://pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format)
 * [github.com/gocolly/colly](https://github.com/gocolly/colly)
+* [golang-benchmark-pprof](https://blog.wu-boy.com/2020/06/golang-benchmark-pprof/)
+* [new-package-graceful-shutdown-in-golang](https://blog.wu-boy.com/2022/04/new-package-graceful-shutdown-in-golang/)
+* [what-is-graceful-shutdown-in-golang](https://blog.wu-boy.com/2020/02/what-is-graceful-shutdown-in-golang/)
+* [Tritonho/demo](https://github.com/TritonHo/demo)
+    * 這是一個教學用專案，讓你一步一步理解backend framework的基本結構。 從第一版到第十一版，你將會看到一個250行的CRUD endpoint，被改寫成只有80行。
+      而且，你將會學習到現在編程技巧，例如：struct tag（大約等同Java annotation），reflection和middleware。
